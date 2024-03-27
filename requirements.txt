@@ -1,0 +1,4 @@
+langchain
+chromadb
+pdfminer.six
+gradio
